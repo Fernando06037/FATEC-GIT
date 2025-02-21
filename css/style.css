@@ -1,0 +1,20 @@
+body {
+    background-color: rgb(0, 0, 0);
+    font-family: 'Times New Roman', Times, serif;
+}
+
+header h1 {
+    color: goldenrod;
+}
+
+nav p {
+    color: rgb(255, 0, 0);
+}
+
+main div {
+    color: white;
+}
+
+footer {
+    color: rgb(255, 0, 0);
+}
